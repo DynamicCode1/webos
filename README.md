@@ -12,3 +12,14 @@ to add your project:-
     <button onclick="goto(`[Link]`)"> Run </button>
 </div>
 ```
+For example you have your demo at `https://dynamicos.netlify.app` , and the logo is `images/os.png` then the code will be as follows
+```html
+<div class="card">
+    <div class="card-border-top"></div>
+    <div class="img">
+      <img src="images/os.png">
+    </div>
+    <span>AvdanOS</span>
+    <button onclick="goto(`https://dynamicos.netlify.app`)"> Run </button>
+</div>
+```
