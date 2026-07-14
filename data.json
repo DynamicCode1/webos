@@ -50,6 +50,11 @@
     "url": "https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html"
   },
   {
+    "name": "NexOS Web",
+    "image": "https://github.com/Hyggshi-OS-Foundation/Nex-OS-Web/blob/main/NexOS.png?raw=true",
+    "url": "https://hyggshi-os-foundation.github.io/Nex-OS-Web/"
+  },
+  {
     "name": "paperOS",
     "image": "https://paperos.paperproductions.org/src/paperOS/boot/pKern/PaperProductions.png",
     "url": "https://paperos.paperproductions.org"
