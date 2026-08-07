@@ -63,5 +63,10 @@
     "name": "paperOS",
     "image": "https://paperos.paperproductions.org/src/paperOS/boot/pKern/PaperProductions.png",
     "url": "https://paperos.paperproductions.org"
+  },
+  {
+    "name": "Avero",
+    "image": "images/avero.png",
+    "url": "https://codyferd.github.io/avero"
   }
 ]
