@@ -68,5 +68,10 @@
     "name": "Avero",
     "image": "images/avero.png",
     "url": "https://codyferd.github.io/avero"
-  }
-]
+  },
+  {
+  "name": "Nexus by ACA",
+  "image": "file:///Users/ibrahimluqman/Desktop/Screenshot%202026-08-07%20at%2010.59.03%E2%80%AFPM.png",
+  "url": "https://nexusbyaca.vercel.app/"
+}
+
