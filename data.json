@@ -69,4 +69,9 @@
     "image": "images/avero.png",
     "url": "https://codyferd.github.io/avero"
   }
+  {
+    "name": "Nevora OS",
+    "image": "https://web-terminal-os.pages.dev/favicon.svg",
+    "url": "https://web-terminal-os.pages.dev/"
+  }
 ]
