@@ -68,5 +68,11 @@
     "name": "Avero",
     "image": "images/avero.png",
     "url": "https://codyferd.github.io/avero"
+  },
+    {
+    "name": "A-OS (Official)",
+    "image": "images/os.png",
+    "url": "https://a-os-desktop.web.app"
   }
+]
 ]
