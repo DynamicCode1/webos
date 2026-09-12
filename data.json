@@ -74,5 +74,10 @@
     "image": "images/os.png",
     "url": "https://a-os-desktop.web.app"
   }
+  {
+    "name": "Nevora OS",
+    "image": "https://web-terminal-os.pages.dev/favicon.svg",
+    "url": "https://web-terminal-os.pages.dev/"
+  }
 ]
 ]
