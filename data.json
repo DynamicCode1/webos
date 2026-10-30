@@ -54,7 +54,11 @@
     "image": "https://raw.githubusercontent.com/HyggshiOSDeveloper/hyggshi-os-website/refs/heads/main/Resources/favicon.ico",
     "url": "https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html"
   },
-  {
+  {{ 
+"name": "Windows 7", 
+"image": "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7yNvABS0pg9X8Xok5JybFNnUXOh1VrRuy9FygG_3vg&s=10 /images]", 
+"url": "https://nainemom.github.io/win7" 
+}
     "name": "NexOS Web",
     "image": "https://github.com/Hyggshi-OS-Foundation/Nex-OS-Web/blob/main/NexOS.png?raw=true",
     "url": "https://hyggshi-os-foundation.github.io/Nex-OS-Web/"
