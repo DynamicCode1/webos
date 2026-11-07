@@ -29,7 +29,7 @@
     "image": "images/98.png",
     "url": "https://98.js.org/"
   },
-    {
+  {
     "name": "Windows 99: Neptune Build",
     "image": "images/99.png",
     "url": "https://win99.dev/"
@@ -69,9 +69,15 @@
     "image": "images/avero.png",
     "url": "https://codyferd.github.io/avero"
   },
-    {
+  {
     "name": "A-OS (Official)",
     "image": "images/os.png",
     "url": "https://a-os-desktop.web.app"
-  }
+  },
+  {
+    "name": "HeatherOS",
+    "image": "images/heatheros.png",
+    "url": "https://8.1.ashleyheather.com/"
+  },
+  
 ]
