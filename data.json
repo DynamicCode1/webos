@@ -73,5 +73,10 @@
     "name": "A-OS (Official)",
     "image": "images/os.png",
     "url": "https://a-os-desktop.web.app"
+  },
+  {
+    "name": "BrenmaxOS Web",
+    "image": "https://brenmax.vercel.app/Assets/brenmax.png",
+    "url": "https://brenmax.vercel.app/"
   }
 ]
