@@ -73,5 +73,9 @@
     "name": "A-OS (Official)",
     "image": "images/os.png",
     "url": "https://a-os-desktop.web.app"
-  }
+  },
+    {
+    "name": "MacOS Sequoia",
+    "image": "apple.png",
+    "url": "macos-sequoia123.netlify.app"
 ]
